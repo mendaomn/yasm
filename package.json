@@ -1,0 +1,12 @@
+{
+  "name": "yasm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./__tests__/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
