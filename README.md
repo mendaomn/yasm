@@ -1,5 +1,7 @@
 # Yet Another State Manager
 
+[![Build Status](https://travis-ci.org/mendaomn/yasm.svg?branch=master)](https://travis-ci.org/mendaomn/yasm)
+
 State Management is surely one of the most delicate aspects of building sizable Web Applications. 
 
 Yet I think most of the state managers out there tend to overdo it, so I tried my hand at it with two goals in mind:
