@@ -6,7 +6,7 @@ class Store {
 
   _publish(path) {
     this.subscribers.forEach(sub => {
-      if (!path || !sub.path || sub.path === path) {
+      if (!path || !sub.path || sub.path === path){
         sub.callback(this.state)  
       }
     })
